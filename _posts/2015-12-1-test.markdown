@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Sublime Text3 学习笔记"
+date:   2015-12-01 14:34:25
+categories: yqrashawn update
+tags: featured
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+---
 #用法:
 ```
 subl [arguments] [files]         编辑指定的文件edit the given files
