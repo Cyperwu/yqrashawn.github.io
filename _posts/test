@@ -1,0 +1,67 @@
+#用法:
+```
+subl [arguments] [files]         编辑指定的文件edit the given files
+   or: subl [arguments] [directories]   打开指定的目录
+   or: subl [arguments] -               编辑stdin
+
+参数Arguments:
+  --project <project>: 载入指定的project
+  --command <command>: 运行指定的命令
+  -n or --new-window:  打开一个新的窗口
+  -a or --add:         添加文件夹到当前窗口
+  -w or --wait:        返回前等待文件关闭
+  -b or --background:  不激活该应用程序
+  -s or --stay:        文件关闭后保持应用程序激活状态
+  -h or --help:        显示帮助并退出
+  -v or --version:     显示版本信息并退出
+
+如果从标准输入--wait是隐式的。 使用--stay当文件关闭是不切换到后台控制台(只与是否有等待的文件有关)
+
+文件名可以通过加:line或者:line:column后缀来指定打开的定位。
+用法摘自官方文档
+```
+`ctrl cmd  up down` move the line up and down
+`cmd option n` creat file quick
+`cmd g` find next `cmd d`ed words
+#plugin plain task
+###### shortcuts
+
+`cmd shift p` new task
+today`:` 
+`cmd i` to enter checkbox
+`cmd enter to` enter checkbox in this line
+`cmd d`(done) to check a task
+`-- tab` to another day
+`cmd shift a` move to archive
+
+#vitage mod
+`i` to insert mode
+`v` to visual mode 
+`escape` to commad mode
+`h` left `l` rigt `k` up `j` down
+stack commands:`5h` `5l` `5k` `5j` to go five space  
+`ci` change inner  eg `ci"` 
+`c` is for change in vintage mode and change means delete the selected and enter  
+`vi` visrally sellect  
+`cw` change words c2w change two words this will delete 2 words  
+`vw` visually selet words v2w also work  
+`dw` delete words
+`vt`,  visually sellected till ,  
+`vf`, will select the , as well  
+`A` end of line and insert mod `I` begin of the line and taggler insert mode   
+`V` select entier line  
+`y` for yank `p` for paste `yy` yank or copy the line  
+`d` for delete `dd` for delete the line  
+
+# project
+save project as  
+`cmd ctrl p` switch project
+
+# split view
+`option cmd 1 2 3 4` will set up 1 2 3 4 groups
+use `ctrl shift 1 2 3 4` to move present tab to group 1 2 3 4 
+and `ctrl 1 2 3 4` to move cursor among groups
+[for further reviw when i want to setup my out layout](https://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2/lessons/configuring-and-mastering-split-windows) 
+
+
+
