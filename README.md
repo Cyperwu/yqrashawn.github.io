@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Poole
 
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
@@ -120,14 +119,3 @@ CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are locate
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
-=======
-# HuxBlog Boilerplate
-
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
-
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
-
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
->>>>>>> 6fc71f9db47b074c288af45e495de78bc747d248
