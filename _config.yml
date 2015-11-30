@@ -21,16 +21,16 @@ gems:
 
 
 # Site owner
-owner:
-  name:
-  email:
-  twitter:
-  google:
-    ad-client:
-    ad-slot:
-  bio:
+owner:yqrashawn
+  name:yqrashawn
+  email:namy.19@gmail.com
+  # twitter:
+  google:namy.19@gmail.com
+    # ad-client:
+    # ad-slot:
+  bio:A Runner.
   avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  disqus-shortname:yqrashawn
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
