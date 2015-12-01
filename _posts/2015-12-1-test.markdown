@@ -10,10 +10,8 @@ tags:
     - vintige mode
     - Sublime Text
 ---
-
-
-
 ##用法:
+
 ```
 subl [arguments] [files]         编辑指定的文件edit the given files
    or: subl [arguments] [directories]   打开指定的目录
@@ -35,6 +33,7 @@ subl [arguments] [files]         编辑指定的文件edit the given files
 文件名可以通过加:line或者:line:column后缀来指定打开的定位。
 用法摘自官方文档
 ```
+
 `ctrl cmd  up down` move the line up and down
 `cmd option n` creat file quick
 `cmd g` find next `cmd d`ed words
