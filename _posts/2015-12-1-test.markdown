@@ -6,7 +6,10 @@ categories: yqrashawn update
 tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
-#用法:
+
+
+
+##用法:
 ```
 subl [arguments] [files]         编辑指定的文件edit the given files
    or: subl [arguments] [directories]   打开指定的目录
@@ -31,7 +34,7 @@ subl [arguments] [files]         编辑指定的文件edit the given files
 `ctrl cmd  up down` move the line up and down
 `cmd option n` creat file quick
 `cmd g` find next `cmd d`ed words
-#plugin plain task
+##plugin plain task
 ###### shortcuts
 
 `cmd shift p` new task
@@ -42,7 +45,7 @@ today`:`
 `-- tab` to another day
 `cmd shift a` move to archive
 
-#vitage mod
+##vitage mod
 `i` to insert mode
 `v` to visual mode 
 `escape` to commad mode
@@ -61,11 +64,11 @@ stack commands:`5h` `5l` `5k` `5j` to go five space
 `y` for yank `p` for paste `yy` yank or copy the line  
 `d` for delete `dd` for delete the line  
 
-# project
+## project
 save project as  
 `cmd ctrl p` switch project
 
-# split view
+## split view
 `option cmd 1 2 3 4` will set up 1 2 3 4 groups
 use `ctrl shift 1 2 3 4` to move present tab to group 1 2 3 4 
 and `ctrl 1 2 3 4` to move cursor among groups
